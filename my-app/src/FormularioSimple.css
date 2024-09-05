@@ -1,0 +1,9 @@
+.FormularioSimple {
+    background: rgb(206, 206, 206);
+    color: rgb(41, 41, 41);
+    margin: 2rem;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 20px;
+  }

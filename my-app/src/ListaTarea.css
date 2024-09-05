@@ -1,0 +1,8 @@
+.ListaTarea{
+    background-color: rgb(206 206 206);
+    border-radius: 10px;
+    color: rgb(41, 41, 41);
+    margin: 1rem;
+    font-size: 30px;
+    padding: 10px;
+}
